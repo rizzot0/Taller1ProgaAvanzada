@@ -1,0 +1,15 @@
+Pablo,1000,Mejora ia,32
+Jose,2000,IA Master,30
+Mario,1500,Progamador,25
+Bastian,1000,Mejora ia,22
+Pedro,2300,IA Master,20
+Elo,1584,Progamador,10
+Alonso,1000,Mejora ia,14
+Juan,3000,IA Master,3
+Pedro,1700,Progamador,15
+Jose,1200,Mejora ia,32
+Alonso,800,IA Master,10
+Mariano,900,Progamador,22
+Bryan,4000,Mejora ia,32
+Fernando,1000,IA Master,50
+Alfonso,500,Progamador,40

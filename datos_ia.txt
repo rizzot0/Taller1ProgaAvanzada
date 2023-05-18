@@ -1,0 +1,15 @@
+owo,2003,10,mediana,pablo,4
+¡@IA¿WIN$#,2007,2,simple,jose,6
+pam,2000,10,avanzada,mario,3
+uwu,2006,13,mediana,bastian,2
+nike,2007,12,simple,pedro,6
+pamqw,2010,7,avanzada,elo,3
+qwe2,2013,9,mediana,alonso,2
+eq1w,2017,2,simple,juan,6
+qfr1,2020,5,avanzada,pedro,3
+t2,2005,4,mediana,jose,2
+stq2,2007,23,simple,alonso,6
+gqf3,2003,1,avanzada,mariano,3
+qpw2,2003,62,mediana,bryan,2
+bqt1,2012,5,simple,fernando,6
+bbb3,2015,3,avanzada,alfonso,3
